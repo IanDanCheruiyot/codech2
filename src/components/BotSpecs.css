@@ -1,0 +1,45 @@
+.bot-specs {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .bot-specs img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+  
+  .bot-specs h3 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .bot-specs p {
+    font-size: 18px;
+    color: #555;
+    margin: 5px 0;
+  }
+  
+  .bot-specs button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 15px;
+  }
+  
+  .bot-specs button:hover {
+    background-color: #0056b3;
+  }
+  

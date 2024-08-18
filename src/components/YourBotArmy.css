@@ -1,0 +1,25 @@
+.your-bot-army {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f3f1f1;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+  
+.your-bot-army h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+  
+.your-bot-army .bot-card {
+  width: 100%;
+  margin-bottom: 15px;
+}
+  
+.your-bot-army .bot-card:last-child {
+  margin-bottom: 0;
+}
