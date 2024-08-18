@@ -3,6 +3,7 @@ import BotCollection from './components/BotCollection';
 import YourBotArmy from './components/YourBotArmy';
 import BotSpecs from './components/BotSpecs';
 import SortBar from './components/SortBar';
+import "./App.css"
 
 function App() {
   const [army, setArmy] = useState([]);
